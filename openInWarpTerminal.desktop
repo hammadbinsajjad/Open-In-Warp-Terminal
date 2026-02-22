@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Service
+MimeType=inode/directory
+Icon=dev.warp.Warp
+Actions=openFolderInWarpTerminal
+
+[Desktop Action openFolderInWarpTerminal]
+Name=Open in Warp Terminal
+Icon=dev.warp.Warp
+Exec=open 'warp://action/new_tab?path=%f'
