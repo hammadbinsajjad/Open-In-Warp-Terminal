@@ -24,7 +24,9 @@ There are 2 methods of installation.
 5. In the Context menu, enable the `Open in Warp Terminal` service.
 
 
-[TODO: Add KDE store link here](...)
+
+<a href="https://www.pling.com/p/2349154/"><img alt="Download from the KDE Store" height="50px"
+src="https://img.shields.io/badge/KDE_Store-blue?style=for-the-badge&logo=kde"></a>
 
 ### 2. Manual Installation
 
