@@ -1,5 +1,7 @@
 # Dolphin Service Menu: Open in Warp Terminal
 
+*Disclaimer: This project is not affiliated with Warp Terminal at all*
+
 ## Introduction
 
 A service menu for the dolphin file manager that opens the current folder inside Warp terminal.
