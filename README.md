@@ -1,6 +1,6 @@
 # Dolphin Service Menu: Open in Warp Terminal
 
-*Disclaimer: This project is not affiliated with Warp Terminal at all*
+*Disclaimer: This project is not affiliated with Warp Terminal*
 
 ## Introduction
 
